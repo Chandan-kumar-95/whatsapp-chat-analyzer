@@ -51,7 +51,9 @@ Streamlit – Interactive dashboard UI
 
 
 Project structure 
+
 whatsapp-chat-analysis/
+
 │── app.py              # Main Streamlit app (UI + logic)
 
 │── helper.py           # Functions for stats, wordcloud, emoji analysis
